@@ -1,0 +1,9 @@
+@page "/studentdetail/{id}"
+
+<h3>Detail Data Department</h3>
+<p> Student Id : @Student.studentID</p>
+<p> First Name: @Student.firstName</p>
+<p> Last Name : @Student.lastName</p>
+<p> Enrollment Date : @Student.enrollmentDate</p>
+ <a href="/studentpage" class="btn btn-secondary m-1">Back</a>
+         <a href="@($"editemployee/{Student.studentID}")" class="btn btn-success m-1">Edit</a>
