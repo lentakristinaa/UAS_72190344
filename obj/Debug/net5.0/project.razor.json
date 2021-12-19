@@ -61,6 +61,59 @@
         }
       },
       {
+        "HashCode": -1362761447,
+        "Kind": "Components.Component",
+        "Name": "Blazor344.Pages.DeleteStudent",
+        "AssemblyName": "Blazor344",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor344.Pages.DeleteStudent"
+        }
+      },
+      {
+        "HashCode": 2031516896,
+        "Kind": "Components.Component",
+        "Name": "Blazor344.Pages.DeleteStudent",
+        "AssemblyName": "Blazor344",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor344.Pages.DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor344.Pages.DeleteStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1827625799,
         "Kind": "Components.Component",
         "Name": "Blazor344.Pages.DetailStudent",
@@ -167,39 +220,6 @@
         }
       },
       {
-        "HashCode": 530952267,
-        "Kind": "Components.Component",
-        "Name": "Blazor344.Pages.StudentPage",
-        "AssemblyName": "Blazor344",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "StudentPage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor344.Pages.StudentPage"
-        }
-      },
-      {
-        "HashCode": 2124022791,
-        "Kind": "Components.Component",
-        "Name": "Blazor344.Pages.StudentPage",
-        "AssemblyName": "Blazor344",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazor344.Pages.StudentPage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor344.Pages.StudentPage",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1766478388,
         "Kind": "Components.Component",
         "Name": "Blazor344.Pages.Counter",
@@ -295,59 +315,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Blazor344.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1362761447,
-        "Kind": "Components.Component",
-        "Name": "Blazor344.Pages.DeleteStudent",
-        "AssemblyName": "Blazor344",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DeleteStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor344.Pages.DeleteStudent"
-        }
-      },
-      {
-        "HashCode": 2031516896,
-        "Kind": "Components.Component",
-        "Name": "Blazor344.Pages.DeleteStudent",
-        "AssemblyName": "Blazor344",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazor344.Pages.DeleteStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor344.Pages.DeleteStudent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
